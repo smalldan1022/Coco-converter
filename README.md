@@ -42,7 +42,7 @@ Coco annotator provides us a good way for labeling. However, if we want to reuse
 ## Result
 
 
-![Result](https://github.com/smalldan1022/Corneal-ulcer/blob/master/pictures/TrainProcess.png)
+![Result]()
 
 *Hint:You should create the category (step 5.) and the dataset (step 6.) in the same name*
 
