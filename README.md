@@ -39,12 +39,14 @@ Coco annotator provides us a good way for labeling. However, if we want to reuse
 
     8.Press import COCO and import the coco format Json file 
 
+  *Hint:You should create the category (step 5.) and the dataset (step 6.) in the same name*
+
 ## Result
 
 
 ![Result](https://github.com/smalldan1022/Coco-converter/blob/main/pics/coco_converter.png)
 
-*Hint:You should create the category (step 5.) and the dataset (step 6.) in the same name*
+
 
 
 ## Limitation
@@ -68,6 +70,10 @@ Assume you have all the needed dataset. If not, go through the [Pre-requisites](
 
 ``` bash
 python main.py
+
+
+Below are parameters desciptions. You need to change manually.
+====================================================
 
 # Parameters needed to be modified are below:
 
